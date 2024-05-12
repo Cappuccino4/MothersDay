@@ -1,8 +1,10 @@
 p {
     color: black;
     width: 500px;
-    font-size: larger;
+    font-size: 80px;
     text-align: center;
+    display: block;
+    margin: 0 auto;
   }
   img {
     display: block;
@@ -11,10 +13,18 @@ p {
   h1 {
     display: block;
     margin: 0 auto;
+    text-align: center;
+    font-size: 150px;
   }
   body {
     background-color: lemonchiffon;
   }
+  .jeopardy {
+    position: absolute;
+    left: 30%;
+    margin-top: -25px;
+    margin-left: -50px;
+}
   
   
   
